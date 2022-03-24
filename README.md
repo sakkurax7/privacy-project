@@ -1,6 +1,5 @@
 # Privacy and Security Checklist
-[ ] Password managers
- - Lastpass 
+- [ ] Use a password manager
 
 - [ ] Two-factor authentication
 
@@ -20,7 +19,7 @@
 
 - [ ] Privacy-first search engine
 
-- [ ] Privacy-first email provider
+- [ ] Privacy-first email provi
 
 - [ ] Review location, camera, and other sensitive device permissions
 
