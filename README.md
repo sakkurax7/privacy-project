@@ -1,46 +1,6 @@
-# Privacy and Security Checklist
-- [ ] Use a password manager
-
-- [ ] Two-factor authentication
-
-- [ ] Mobile carrier PIN
-
-- [ ] Encrypt your devices
-
-- [ ] Freeze your credit
-
-- [ ] Change DNS settings
-
-- [ ] Use a VPN
-
-- [ ] Physical space privacy
-
-- [ ] Privacy-first web browser
-
-- [ ] Privacy-first search engine
-
-- [ ] Privacy-first email provi
-
-- [ ] Review location, camera, and other sensitive device permissions
-
-- [ ] Remove metadata attached to photos you share
-
-- [ ] Review social media privacy settings
-
-- [ ] Use encrypted messaging apps
-
-- [ ] Educate yourself about phishing
-
-- [ ] KEEP YOUR DEVICE UP TO DATE!
-
-- [ ] Remove public record listings
-
-
 # Privacy Respecting Software [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
 
 > Curated List of Privacy Respecting Services and Software
-
-_Please read [contribution guidelines](contributing.md) before contributing._
 
 - [What?](#what)
 - [Search Engines](#search-engines)
