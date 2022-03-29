@@ -24,6 +24,9 @@ For reasons why you may want to care about this, you can read [this article](htt
 The list is separated into topics and each service or software stated gives support for why you may want to stop using the service. As well as show alternatives to these services and why you may want to switch to them.
 
 ## Search Engines
+**:+1: I reccomend using:**
+
+Duckduckgo is my personal search engine. It's results are generaly worse than Google's for technical queries, but it works just fine for finding general information.
 
 **⚠️ You are the product:**
 
@@ -38,6 +41,9 @@ The list is separated into topics and each service or software stated gives supp
 - [Searx](https://github.com/asciimoo/searx) - [Why use Searx?](https://asciimoo.github.io/searx/)
 
 ## Social Networks
+**:+1: I reccomend using:**
+
+I use Invidious and Nitter frontents for Youtube and Twitter respectively. A social network isn't very worthwile if no one uses it, and while using Twitter and Youtube can have negative implications for privacy, the frontends are a bit more privacy respecting.
 
 **⚠️ You are the product:**
 
@@ -65,6 +71,9 @@ The list is separated into topics and each service or software stated gives supp
 - [Bibliogram](https://bibliogram.art) - An alternative front-end for Instagram. [Code](https://sr.ht/~cadence/bibliogram).
 
 ## Messengers
+**:+1: I reccomend using:**
+
+I use Wire as it is the most secure and easy to use. It has applications for Linux, Windows, MacOS, Andriod, and iOS. Their servers are physically located in Switzerland, completely away from spying countries, which along with full encryption makes it the best choice as a secure messenger.
 
 **⚠️ You are the product:**
 
@@ -94,6 +103,9 @@ The list is separated into topics and each service or software stated gives supp
 - [Telegram](https://telegram.org/) - Uses [MTProto Mobile Protocol](https://core.telegram.org/mtproto). However group channels cannot be E2E encrypted, and [private chats default to non-E2E](https://telegram.org/faq#q-what-if-im-more-paranoid-than-your-regular-user). Telegram states that [generating profit is not the end goal](https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this) of the app. However, the backend is not open source (yet).
 
 ## Cloud Storage
+**:+1: I reccomend using:**
+
+I personally use Nextcloud for hosting files as I can use my own servers for storing the data. Not everyone has this ability, so a close second would have to be Syncthing as it is decentralised. 
 
 **⚠️ You are the product:**
 
@@ -119,6 +131,9 @@ The list is separated into topics and each service or software stated gives supp
 - [Keybase](https://keybase.io/) - End-to-end encrypted chat and Dropbox alternative. It's backend is not open source and it also [got merged with Zoom](https://keybase.io/blog/keybase-joins-zoom)
 
 ## VPN
+**:+1: I reccomend using:**
+
+ProtonVPN is the only VPN I would reccomend.
 
 **⚠️ You are the product:**
 
@@ -132,6 +147,9 @@ The list is separated into topics and each service or software stated gives supp
 - [OVPN](https://www.ovpn.com/) - Swedish provider that operates VPN servers without any hard drives, has a strict no logs policy, and publishes transparency reports. Accepts Bitcoin, anonymous cash payments, PayPal, and more.
 
 ## Email
+**:+1: I reccomend using:**
+
+I personally use ProtonMail for all my emails. Protonmail has the highest focus on privacy and security, and is rolling out a lot of cool new features like [ProtonCalendar and ProtonDrive](https://protonmail.com/blog/2022-roadmap/).
 
 **⚠️ You are the product:**
 
@@ -152,6 +170,10 @@ The list is separated into topics and each service or software stated gives supp
 - [Self-host your own Email server](https://www.c0ffee.net/blog/mail-server-guide). Note that this route is not recommended unless you know exactly what you're doing, otherwise you might end up with terrible security on the server side.
 
 ## Operating Systems
+
+**:+1: I reccomend using:**
+
+I personally use Qubes for my desktop and LineageOS for my phone. Both are a bit of work to set up, and so for those who don't want to fiddle around with their devices, I'd stick with used Apple devices.
 
 **⚠️ You are the product:**
 
@@ -177,6 +199,10 @@ The list is separated into topics and each service or software stated gives supp
 
 ## Browsers
 
+**:+1: I reccomend using:**
+
+I personally use Firefox, although if you prefer the look of Chrome, I can safely reccomend Ungoogled Chromium.
+
 **⚠️ You are the product:**
 
 - Google Chrome - Owned by Google.
@@ -195,6 +221,9 @@ The list is separated into topics and each service or software stated gives supp
 - [Vivaldi](https://vivaldi.com) - Non-privacy settings by default, partially proprietary. [It does install per a Unique User ID](https://forum.vivaldi.net/topic/11413/privacy-does-v-create-unique-installation-id-for-google-other-privacy-mods-of-srware-s-iron)
 
 ## Video Sharing
+**:+1: I reccomend using:**
+
+As mentioned before, I use a frontend for Youtube. All of the listed platforms haven't had a great amount of adoption and I find them much less useful. 
 
 **⚠️ You are the product:**
 
@@ -208,7 +237,9 @@ The list is separated into topics and each service or software stated gives supp
 - [BitChute](https://www.bitchute.com/) - [Peer to peer video sharing platform](https://en.wikipedia.org/wiki/BitChute).
 
 ## AI Assistants
+**:+1: I reccomend using:**
 
+I do not use an AI assistant
 **⚠️ You are the product:**
 
 - Amazon Alexa - Owned by Amazon.
