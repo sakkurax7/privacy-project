@@ -13,7 +13,7 @@
 - [Browsers](#browsers)
 - [Video Sharing](#video-sharing)
 - [AI Assistants](#ai-assistants)
-- [Related](#related)
+- [Related](#Check These Out Too!)
 
 ## What?
 
