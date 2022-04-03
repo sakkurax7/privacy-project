@@ -1,6 +1,6 @@
-# Privacy Respecting Software [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
+# Privacy Respecting Software 
 
-> Curated List of Privacy Respecting Services and Software
+> Curated List of Privacy Respecting Services 
 
 - [What?](#what)
 - [Search Engines](#search-engines)
@@ -17,11 +17,9 @@
 
 ## What?
 
-This is a list of various 'free' services whose business models are to collect as much personal data about you as possible and alternatives you can use to them if you care about not losing control of your data and your privacy.
+This is a list of various 'free' services whose business models are to collect as much personal data about you as possible and alternatives you can use  if you care about not losing control of your data and privacy.
 
-For reasons why you may want to care about this, you can read [this article](https://medium.com/@nikitavoloboev/like-a-dog-on-a-leash-c0cdb8839079).
-
-The list is separated into topics and each service or software stated gives support for why you may want to stop using the service. As well as show alternatives to these services and why you may want to switch to them.
+The list is separated into topics and each service or software stated gives support for why you may want to stop using the service. As well as alternatives to these services and why you may want to switch to them.
 
 ## Search Engines
 **:+1: I reccomend using:**
@@ -251,7 +249,7 @@ I do not use an AI assistant
 - [Mycroft](https://mycroft.ai/) - Open-source AI assistant, range of hardware options.
 - Apple Siri and HomePod - [Apple Privacy](https://www.apple.com/lae/privacy/).
 
-## Related
+## Check These Out Too!
 
 - [Security Checklist](https://securitycheckli.st/) - Open source checklist of resources designed to improve your online privacy and security.
 - [Privacy Tools](https://www.privacytools.io/) - Encryption against global mass surveillance. [(GitHub)](https://github.com/privacytoolsIO/privacytools.io)
@@ -285,11 +283,3 @@ I do not use an AI assistant
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 - [privacy.sexy](https://privacy.sexy) - Open-source tool enforce privacy & security best-practices on desktop operating systems.
 - [EncryptedList](https://encryptedlist.xyz/) - List of services that offer zero-knowledge or end-to-end encryption 🔐.
-
-
-
-
-[![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
-[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](contributing.md)
-[![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
