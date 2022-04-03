@@ -17,9 +17,7 @@
 
 ## What?
 
-This is a list of various 'free' services whose business models are to collect as much personal data about you as possible and alternatives you can use  if you care about not losing control of your data and privacy.
-
-The list is separated into topics and each service or software stated gives support for why you may want to stop using the service. As well as alternatives to these services and why you may want to switch to them.
+This is a list of common replacements to software that collects your data. I present a lot of options, to show you that switching away from data-collecting options is very possible, but it can be overwheling, so I present my personal choice in each category. 
 
 ## Search Engines
 **:+1: I reccomend using:**
@@ -238,6 +236,7 @@ As mentioned before, I use a frontend for Youtube. All of the listed platforms h
 **:+1: I reccomend using:**
 
 I do not use an AI assistant
+
 **⚠️ You are the product:**
 
 - Amazon Alexa - Owned by Amazon.
