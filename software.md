@@ -2,7 +2,6 @@
 
 > Curated List of Privacy Respecting Services 
 
-- [What?](#what)
 - [Search Engines](#search-engines)
 - [Social Networks](#social-networks)
 - [Messengers](#messengers)
@@ -13,9 +12,8 @@
 - [Browsers](#browsers)
 - [Video Sharing](#video-sharing)
 - [AI Assistants](#ai-assistants)
-- [Related](#Check These Out Too!)
 
-## What?
+## What Is This?
 
 This is a list of common replacements to software that collects your data. I present a lot of options, to show you that switching away from data-collecting options is very possible, but it can be overwheling, so I present my personal choice in each category. 
 
